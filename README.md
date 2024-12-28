@@ -1,5 +1,4 @@
-## Hi there 👋 
-# I'm Samantha Pantoja Ortiz, a Python Developer
+## Hi there 👋 I'm Samantha Pantoja Ortiz a Python Developer
 
 ```python
 class sambleu13:
