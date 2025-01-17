@@ -29,7 +29,7 @@ if __name__ == '__main__':
 
 
 ```
-- 🔭 I’m currently working on Wipro as ETL Developer with Ab Initio
+- 🔭 I’m currently working at Wipro as ETL Developer with Ab Initio
 - 🌱 I’m currently learning Microsoft Azure Data Fundamentals and AWS Cloud Essentials
 - 👯 I’m looking to collaborate on open-source projects
 <!-- - 🤔 I’m looking for help with 
