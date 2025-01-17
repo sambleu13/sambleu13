@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Samantha Pantoja Ortiz, a Python Developer
+## Hi there 👋, I'm Samantha Pantoja Ortiz, Developer
 
 ```python
 class sambleu13:
@@ -6,16 +6,16 @@ class sambleu13:
     def __init__(self):
         self.username = 'sambleu13'
         self.name = 'Samantha Pantoja Ortiz'
-        self.job = 'Python Software Developer'
+        self.job = 'Developer'
         self.web = 'https://sambleu13.github.io'
         self.code = {
-            'backend': ['Python', , 'Django', 'Tcl/tk', 'PHP'],
+            'backend': ['Python', 'Django', 'Tcl/tk', 'PHP', 'Laravel'],
             'database': ['PostgreSQL', 'MySQL'],
             'devops': ['Linux'],
-            'frontend': ['HTML', 'CSS', 'Boostrap'],
-            'tools': ['Git', 'GitHub', 'Pandas', 'Jupyter Notebook', '$LaTeX$'],
+            'frontend': ['HTML', 'CSS', 'Boostrap', 'JS'],
+            'tools': ['Git', 'Jupyter Notebook'],
             'apps': ['Ab Initio', 'DataStage', 'Matlab']
-            'other': ['SCRUM', 'ML', 'Google Cloud']
+            'other': ['SCRUM', 'ML', 'AWS Cloud Practitioner']
         }
         
 
@@ -30,8 +30,8 @@ if __name__ == '__main__':
 
 ```
 - 🔭 I’m currently working on Wipro as ETL Developer with Ab Initio
-- 🌱 I’m currently learning Microsoft Azure and Google Cloud tools
-- 👯 I’m looking to collaborate on Open Source projects
+- 🌱 I’m currently learning Microsoft Azure Data Fundamentals and AWS Cloud Essentials
+- 👯 I’m looking to collaborate on open-source projects
 <!-- - 🤔 I’m looking for help with 
 - 💬 Ask me about ...
 -->
