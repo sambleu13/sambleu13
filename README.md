@@ -14,8 +14,9 @@ class sambleu13:
             'devops': ['Linux'],
             'frontend': ['HTML', 'CSS', 'Boostrap', 'JS'],
             'tools': ['Git', 'Jupyter Notebook'],
-            'apps': ['Ab Initio', 'DataStage', 'Matlab']
-            'other': ['SCRUM', 'ML', 'AWS Cloud Practitioner']
+            'apps': ['Ab Initio', 'DataStage', 'Matlab'],
+            'certifications': ['AWS Cloud Practitioner',
+            'other': ['SCRUM', 'ML']
         }
         
 
@@ -29,8 +30,8 @@ if __name__ == '__main__':
 
 
 ```
-- 🔭 I’m currently working at Wipro as ETL Developer with Ab Initio
-- 🌱 I’m currently learning Microsoft Azure Data Fundamentals and AWS Cloud Essentials
+- 🔭 I’m currently seeking opportunities as Software Development Engineer, Data Engineer and Data Analyst.
+- 🌱 I’m currently brushing up my coding skills for technical interviews.
 - 👯 I’m looking to collaborate on open-source projects
 <!-- - 🤔 I’m looking for help with 
 - 💬 Ask me about ...
