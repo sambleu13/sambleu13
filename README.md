@@ -6,7 +6,7 @@ class sambleu13:
     def __init__(self):
         self.username = 'sambleu13'
         self.name = 'Samantha Pantoja Ortiz'
-        self.job = 'Developer'
+        self.position = 'Developer'
         self.web = 'https://sambleu13.github.io'
         self.code = {
             'backend': ['Python', 'Django', 'Tcl/tk', 'PHP', 'Laravel'],
