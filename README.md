@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Samantha Pantoja Ortiz, Developer
+## Hi there 👋, I'm Samantha Pantoja Ortiz, Data Analyst and Engineer
 
 ```python
 class sambleu13:
@@ -14,7 +14,7 @@ class sambleu13:
             'devops': ['Linux'],
             'frontend': ['HTML', 'CSS', 'Boostrap', 'JS'],
             'tools': ['Git', 'Jupyter Notebook'],
-            'apps': ['Ab Initio', 'DataStage', 'Matlab'],
+            'apps': ['Snowflake, Ab Initio', 'DataStage', 'Matlab'],
             'certifications': ['AWS Cloud Practitioner',
             'other': ['SCRUM', 'ML']
         }
@@ -30,20 +30,19 @@ if __name__ == '__main__':
 
 
 ```
-- 🔭 I’m currently seeking opportunities as Software Development Engineer, Data Engineer and Data Analyst.
-- 🌱 I’m currently brushing up my coding skills for technical interviews.
+- 🔭 I’m currently working as Data Analyst at Mitratech.
+- 🌱 I’m currently interested in data pipelines, ELT processes, data analysis with Python, SQL and AWS.
 - 👯 I’m looking to collaborate on open-source projects
 <!-- - 🤔 I’m looking for help with 
 - 💬 Ask me about ...
 -->
 - 📫 [Send me an email](mailto:samanthapantojaortiz@gmail.com)
 - 😄 Pronouns: She/her/hers
-- ⚡ Fun fact: Cuban salsa dancing rocks! 
+- ⚡ Fun fact: I love cinema and cuban salsa dancing! 
 
 <!--
 **sambleu13/sambleu13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 -->
 
 
